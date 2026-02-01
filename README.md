@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Vikas%20Patil&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
-  
+  <h2> <div align="center">Hi there, I'm Vikas Patil! 👋</div></h2>
   <h3>🛡️ Cyber Security Analyst | 🤖 Penetration Tester | 💻 B.Tech CS Student</h3>
   
   <p>
